@@ -254,4 +254,4 @@ AI 连接器需要分别确认模型服务、模型或推理接入点、凭证�
 | [证据缺口与勘误](guides/EVIDENCE_GAPS.md) | 文档冲突、未公开资料与未实操事项 |
 | [覆盖报告](COVERAGE.md) | 自动汇总的实际资料覆盖情况 |
 
-界面与连线说明的组织遵循 [userinterface-wiki Skill](https://github.com/raphaelsalaja/userinterface-wiki) 的连接关系、邻近分组与逐步呈现原则；本项目描述平台已有界面，没有重新设计平台，也没有新增 UI 测试。
+界面与连线说明按连接关系、邻近分组与逐步呈现组织；本项目描述平台已有界面，没有重新设计平台，也没有新增 UI 测试。
